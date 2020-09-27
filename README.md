@@ -1,2 +1,2 @@
 # Onlineshop
-### https://github.com/tharcissie/Onlineshop.git
+###  https://tharcissie.github.io/Onlineshop/
